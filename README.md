@@ -1,2 +1,11 @@
-# AlpacaWeb: The Game
-3D version of AlpacaWeb: The Game with Vulkan.
+# ALL CREDITS TO: https://github.com/ObeA/alpacanet-the-game
+
+### install
+
+```
+git clone ... 
+git submodule update --init --recursive
+cmake ./
+make
+./AlpacaWeb
+```

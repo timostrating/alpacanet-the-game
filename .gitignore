@@ -1,3 +1,12 @@
+Makefile
+CMakeCache.txt
+AlpacaWeb
+cmake_install.cmake
+glm/
+glfw/
+imgui.ini
+CMakeFiles/
+
 # Created by https://www.gitignore.io/api/clion+all,visualstudio
 # Edit at https://www.gitignore.io/?templates=clion+all,visualstudio
 
